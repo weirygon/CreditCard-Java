@@ -1,4 +1,4 @@
-package Avaliacao2Weiry;
+package Project;
 
 public class CartaoPremium extends Cartao{
 	
