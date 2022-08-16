@@ -1,4 +1,4 @@
-package Avaliacao2Weiry;
+package Project;
 
 public abstract class Cartao {
 	
