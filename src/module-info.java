@@ -1,2 +1,0 @@
-module Avaliacao2Weiry {
-}
